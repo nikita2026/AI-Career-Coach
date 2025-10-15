@@ -1,0 +1,7 @@
+langchain==0.1.16
+langchain-community==0.0.36
+llama-cpp-python
+gradio
+python-dotenv
+ibm-watson
+requests
