@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+myenv/
+myenv_new/
+env/
+venv/
+ENV/
+
+# Model files (optional, depending on whether you want to include them)
+models/*.gguf
+
+# Gradio
+.gradio/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
